@@ -1,0 +1,6 @@
+{
+  "name": "ReFrame",
+  "description": "ReFrame: Dual Shot Recorder - Record once, get both 9:16 portrait and 16:9 landscape twin videos in one take.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReFrame</string>
+    <string name="camera_permission_required">Camera &amp; Audio Permissions Required</string>
+    <string name="camera_permission_rationale">ReFrame needs Camera and Microphone access to record simultaneous 9:16 portrait and 16:9 landscape twin videos.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="exporting_twin_videos">Exporting Twin Videos…</string>
+    <string name="creating_versions">Creating portrait &amp; landscape versions</string>
+    <string name="both_saved_toast">Both videos saved to Photos</string>
+</resources>
